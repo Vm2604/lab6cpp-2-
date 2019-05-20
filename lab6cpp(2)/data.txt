@@ -1,0 +1,8 @@
+Avtor: avtor2
+Name: test kill
+count: 500000
+price:200
+Avtor: avtor1
+Name: price of kill
+count: 45665
+price:400
